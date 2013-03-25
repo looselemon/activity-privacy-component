@@ -94,5 +94,4 @@ return true;
 return false;
 }
 /* End section 1 */
-}
 ?>
