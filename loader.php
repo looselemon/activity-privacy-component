@@ -7,7 +7,7 @@ Version: 1.0
 Requires at least: WordPress 3.2.1 / BuddyPress 1.5.1
 Tested up to: WordPress 3.5.1 / BuddyPress 1.7 beta 2
 License: GNU/GPL 2
-Author: Rich Fuller
+Author: Rich Fuller, @pollyplummer
 Author URI: http://www.wordpress.com
 */
 

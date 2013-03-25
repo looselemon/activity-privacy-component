@@ -1,5 +1,5 @@
 === Activity Privacy Component ===
-Contributors: Rich Fuller,@bphelp
+Contributors: Rich Fuller,@pollyplumer
 Tags: buddypress, activity stream
 Requires at least: WordPress 3.2.1 BuddyPress 1.5.1
 Tested up to: WordPress 3.5.1 +buddypress 1.7 beta 2
@@ -28,7 +28,7 @@ None at the moment
 
 == Notes ==
 
-All credit goes to Rich Fuller as this code was taken from his tutorial, thanks Rich!
+All credit goes to Rich Fuller and @pollyplummer as this code was taken from his tutorial, thanks Rich and @pollyplummer!
  
 == Changelog == 
 
