@@ -2,9 +2,9 @@
 Contributors: Rich Fuller, @pollyplummer
 Tags: buddypress, activity stream
 Requires at least: WordPress 3.2.1 BuddyPress 1.5.1
-Tested up to: WordPress 3.5.1 +buddypress 1.7 beta 2
+Tested up to: WordPress 3.5.1 BuddyPress 1.7
 License: GNU/GPL 2
-Stable tag: 1.0
+Stable tag: 1.2
 
 Modifies the activity stream so you only see your friends and your own activities. Admins see all site activity.
 
@@ -32,7 +32,10 @@ All credit goes to Rich Fuller and @pollyplummer as this code was taken from his
  
 == Changelog == 
 
+= 1.2 =
+* Updated readme.txt
+
 = 1.0 =
-*Initial Release
+* Initial Release
 
 == Other ==
