@@ -4,7 +4,7 @@ Plugin Name: Activity Privacy Component
 Plugin URI: http://www.wordpress.com
 Description: NO LONGER SUPPORTED SEE THE readme.txt file
 Modifies the activity stream so you only see your friends and your own activities. Admins see all site activity.
-Version: 1.3
+Version: 1.4
 Requires at least: WordPress 3.2.1 / BuddyPress 1.5.1
 Tested up to: WordPress 3.5.1 / BuddyPress 1.7.1
 License: GNU/GPL 2
