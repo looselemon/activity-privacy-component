@@ -6,6 +6,17 @@ Tested up to: WordPress 3.5.1 BuddyPress 1.7.1
 License: GNU/GPL 2
 Stable tag: 1.3
 
+== READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
+
+I have decided to abandon any further development on this plugin as there is now an awesome plugin out by @megainfo 
+on the BuddyPress forums that is far more superior called BuddyPress Activity Privacy. It does what this plugin could 
+never do, it gives the users a choice as to who gets to see an activity post and so much more. So out with the old and
+in with the new, get this awesome plugin here:
+http://wordpress.org/extend/plugins/buddypress-activity-privacy/
+
+For those that are stubborn, I will leave this Jurrassic plugin here on github but if you have issues don't request support because I
+am using @megaifo 's plugin and you probably should be too!
+
 Modifies the activity stream so you only see your friends and your own activities. Admins see all site activity.
 
 == Description ==
